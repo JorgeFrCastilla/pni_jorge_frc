@@ -69,11 +69,17 @@ Con el cable hembra fue bastante mas facil, simplemente pelamos el cable con una
 #### ***Conclusiones***. <a name="id5"></a>
 
 En conclusion hacer los pares de cables de internet ha sido realmente complejo solamente por meter los cables sin que se desordenaran en cambio el cable hembra fue bastante facil.g/0.1.png)
-, en esta parte tuvimos varios problemas empezando por que a la hora de los cables son muy sensibles y de vez en cuando se partian, por lo tanto teniamos que tener extremo cuidado, una vez enderezados procedimos a ordenalos para posteriormente introducirlos dentro del RJ45.![Cables](/img/0.2.jpg)
+, en esta parte tuvimos varios problemas empezando por que a la hora de los cables son muy sensibles y de vez en cuando se partian, por lo tanto teniamos que tener extremo cuidado, una vez enderezados procedimos a ordenalos para posteriormente introducirlos dentro del RJ45.
+
+<br>
+
+![Cables](/img/0.2.jpg)
 
 <br>
 
 ![OrdendeCables](/img/1.jpg)
+
+<br>
 
 No obstante ordenar los cables era facil pero mantener el orden dentro del conector fue la parte mas complicada de todo el proceso, ya que apesar de ordenarlos en orden una vez empujamos hacia dentro el cable, se desordenaban o simplemente estaban muy separados y no entraban dentro del conector o los cables a la hora de ordenarlos se partian o se doblaban a la hora de introducirse.
 Una vez introducimos el cable correctamente ordenado hasta el final del conector procedemos a crimparlos con la crimpadora, es decir hacer contacto el cable con los conectores.![Cripado](/img/2.jpg)
