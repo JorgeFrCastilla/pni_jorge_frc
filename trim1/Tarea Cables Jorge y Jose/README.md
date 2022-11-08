@@ -48,57 +48,6 @@ Hemos usado como material:
 
 #### ***Desarrollo***. <a name="id4"></a>
 
-Empezamos cortando y pelando el cable para despues estirarlos y enderezarlos separando los pares entre si ,
-![CablesPelados](/im
-<center>
-
-# TÍTULO DE LA PRÁCTICA
-
-
-</center>
-
-***Nombre:Jorge Francisco, Jose Carballeda***
-***Curso:*** 1º de Ciclo Superior de Administración de Sistemas Informáticos en Red.
-
-### ÍNDICE
-
-+ [Introducción](#id1)
-+ [Objetivos](#id2)
-+ [Material empleado](#id3)
-+ [Desarrollo](#id4)
-+ [Conclusiones](#id5)
-
-
-#### ***Introducción***. <a name="id1"></a>
-
-Vamos a relizar la practica de creacion de cables en clase:
-
--Cable par Cruzado. 
--Cable Directo.
--Cable Hembra.
-<br>
-
-#### ***Objetivos***. <a name="id2"></a>
-
-Realizar Cables RJ45 y comprobarlos en los testers para su correcto funcionamiento.
-Realizar el Cable hembra y comprobarlo con el cable directo.
-
-#### ***Material empleado***. <a name="id3"></a>
-
-Hemos usado como material:
-
--Crimpadora 
--Pela-Cables
--Tester
--Tijeras
-
-<br>
-
-![Objetos](img/5.jpg)
-
-
-#### ***Desarrollo***. <a name="id4"></a>
-
 Empezamos cortando y pelando el cable para despues estirarlos y enderezarlos separando los pares entre si ,![CablesPelados](/img/0.1.png), en esta parte tuvimos varios problemas empezando por que a la hora de los cables son muy sensibles y de vez en cuando se partian, por lo tanto teniamos que tener extremo cuidado, una vez enderezados procedimos a ordenalos para posteriormente introducirlos dentro del RJ45.![Cables](/img/0.2.jpg)
 
 <br>
