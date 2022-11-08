@@ -23,7 +23,9 @@
 Vamos a relizar la practica de creacion de cables en clase:
 
 -Cable par Cruzado. 
+<br>
 -Cable Directo.
+<br>
 -Cable Hembra.
 <br>
 
@@ -37,8 +39,11 @@ Realizar el Cable hembra y comprobarlo con el cable directo.
 Hemos usado como material:
 
 -Crimpadora 
+<br>
 -Pela-Cables
+<br>
 -Tester
+<br>
 -Tijeras
 
 <br>
@@ -62,6 +67,7 @@ Una vez introducimos el cable correctamente ordenado hasta el final del conector
 <br>
 
 Con el Cable directo el proceso es exactamente igual a diferencia del trenzado simplemente era el orden del color del cable.
+
 <br>
 
 Con el cable hembra fue bastante mas facil, simplemente pelamos el cable con una altura bastante pronunciada,![CableHembra](/img/4.jpg), despues ordenamos los colores de el cable hembraen cada entrada del cable, y con la punchadora introducimos el cable dentro de la entrada del conector hembra despues de haber ordenado los cables simplemente cerrabamos el conector y listo ya teniamos el cable hembra hecho. ![CableTerminado](/img/3.jpg)                                                             
