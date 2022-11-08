@@ -53,6 +53,9 @@ Empezamos cortando y pelando el cable para despues estirarlos y enderezarlos sep
 <br>
 
 ![OrdendeCables](/img/1.jpg)
+
+<br>
+
 No obstante ordenar los cables era facil pero mantener el orden dentro del conector fue la parte mas complicada de todo el proceso, ya que apesar de ordenarlos en orden una vez empujamos hacia dentro el cable, se desordenaban o simplemente estaban muy separados y no entraban dentro del conector o los cables a la hora de ordenarlos se partian o se doblaban a la hora de introducirse.
 Una vez introducimos el cable correctamente ordenado hasta el final del conector procedemos a crimparlos con la crimpadora, es decir hacer contacto el cable con los conectores.![Cripado](/img/2.jpg)
 
