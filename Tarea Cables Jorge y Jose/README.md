@@ -37,8 +37,11 @@ Realizar el Cable hembra y comprobarlo con el cable directo.
 Hemos usado como material:
 
 -Crimpadora 
+<br>
 -Pela-Cables
+<br>
 -Tester
+<br>
 -Tijeras
 
 <br>
