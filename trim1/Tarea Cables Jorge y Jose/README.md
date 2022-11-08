@@ -72,6 +72,11 @@ Con el Cable directo el proceso es exactamente igual a diferencia del trenzado s
 
 Con el cable hembra fue bastante mas facil, simplemente pelamos el cable con una altura bastante pronunciada ![CableHembra](/img/4.jpg) Despues ordenamos los colores de el cable hembraen cada entrada del cable, y con la punchadora introducimos el cable dentro de la entrada del conector hembra despues de haber ordenado los cables simplemente cerrabamos el conector y listo ya teniamos el cable hembra hecho. ![CableTerminado](/img/3.jpg)                                                             
 
+
 #### ***Conclusiones***. <a name="id5"></a>
 
 En conclusion hacer los pares de cables de internet ha sido realmente complejo solamente por meter los cables sin que se desordenaran en cambio el cable hembra fue bastante facil
+
+#### ***Video de los cables***.
+
+
