@@ -25,6 +25,7 @@ Vamos a relizar la practica de creacion de cables en clase:
 -Cable par Cruzado. 
 -Cable Directo.
 -Cable Hembra.
+[1](img/1.png)
 
 
 #### ***Objetivos***. <a name="id2"></a>
