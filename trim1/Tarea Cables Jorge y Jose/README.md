@@ -79,4 +79,4 @@ En conclusion hacer los pares de cables de internet ha sido realmente complejo s
 
 #### ***Video de los cables***.
 
-
+https://youtu.be/qw-_zOY-GDM
